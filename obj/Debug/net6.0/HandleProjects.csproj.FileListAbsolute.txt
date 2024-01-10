@@ -1,0 +1,14 @@
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\bin\Debug\net6.0\HandleProjects.exe
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\bin\Debug\net6.0\HandleProjects.deps.json
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\bin\Debug\net6.0\HandleProjects.runtimeconfig.json
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\bin\Debug\net6.0\HandleProjects.dll
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\bin\Debug\net6.0\HandleProjects.pdb
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.AssemblyInfoInputs.cache
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.AssemblyInfo.cs
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.dll
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\refint\HandleProjects.dll
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.pdb
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.genruntimeconfig.cache
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\ref\HandleProjects.dll
