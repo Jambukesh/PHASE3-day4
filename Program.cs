@@ -8,6 +8,7 @@ new Product(){ Pname="laptop",Pprice  =25000,Pbrand  ="HP",ManufacturingDate=new
 new Product(){ Pname="Mobile",Pprice  =45000,Pbrand  ="OPPO",ManufacturingDate=new DateTime (day:15,month:12,year:2021),ExpiryDate=new DateTime(day:12,month:11,year:2030)},
 new Product(){ Pname="SmartWatch",Pprice  =2000,Pbrand  ="Itel",ManufacturingDate=new DateTime (day:12,month:11,year:2022),ExpiryDate=new DateTime(day:12,month:11,year:2030)},
 new Product(){ Pname="Shoe",Pprice  =5000,Pbrand  ="Nike",ManufacturingDate=new DateTime (day:12,month:11,year:2022),ExpiryDate=new DateTime(day:12,month:11,year:2024)},
+new Product(){ Pname="Shirt",Pprice  =1200,Pbrand  ="HighLander",ManufacturingDate=new DateTime (day:12,month:11,year:2022),ExpiryDate=new DateTime(day:12,month:11,year:2024)},
 
 };
 Console.WriteLine("Pname\tPprice\tPbrand\tMfdate\tExpdate");

@@ -12,3 +12,4 @@ E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debu
 E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.pdb
 E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.genruntimeconfig.cache
 E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\ref\HandleProjects.dll
+E:\mphasis\problem statement\PHASE3\day 4\HandleProjects\HandleProjects\obj\Debug\net6.0\HandleProjects.sourcelink.json
